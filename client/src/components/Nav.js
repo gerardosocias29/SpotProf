@@ -173,7 +173,7 @@ const Nav = () => (
     </Menu>
     <Github>
       <a
-        href="https://github.com/gerardosocias29/spot-prof"
+        href="https://github.com/gerardosocias29/SpotProf"
         target="_blank"
         rel="noopener noreferrer">
         <IconGithub />
