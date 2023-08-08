@@ -12,7 +12,7 @@
     "not op_mini all"
   ],
   "engines": {
-    "node": "19.3.0"
+    "node": "18.17.0"
   },
   "babelMacros": {
     "styledComponents": {
