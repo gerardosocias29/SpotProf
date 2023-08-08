@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/gerardosocias29/SpotProf#readme",
   "engines": {
-    "node": "18.17.0"
+    "node": "19.3.0"
   },
   "scripts": {
     "client:install": "cd client && yarn",
